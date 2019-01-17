@@ -1,0 +1,12 @@
+{
+  "name": "Visitor Management System",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.10.6",
+    "mysql": "^2..5.4"
+  },
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
